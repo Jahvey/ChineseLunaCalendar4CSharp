@@ -1,0 +1,8 @@
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\bin\Debug\ca01.exe.config
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\obj\Debug\ca01.csprojResolveAssemblyReference.cache
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\bin\Debug\ca01.exe
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\bin\Debug\ca01.pdb
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\obj\Debug\ca01.exe
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\obj\Debug\ca01.pdb
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\bin\Debug\calendar.dll
+D:\vs2015\project\demo\Projects\ChineseLunaCalendar03\ca01\ca01\bin\Debug\calendar.pdb
